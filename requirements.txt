@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+
+supabase           # <-- NEW: official Supabase Python client
+python-dotenv
+
+streamlit
+requests
+
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+reportlab
